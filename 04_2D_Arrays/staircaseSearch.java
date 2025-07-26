@@ -22,6 +22,6 @@ public class staircaseSearch {
             {9, 10, 11, 12},
             {13, 14, 15, 16}
         };
-        staircaseSearch(Matrix,100);
+        staircaseSearch(Matrix,13);
    } 
 }
